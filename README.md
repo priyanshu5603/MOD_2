@@ -36,7 +36,7 @@ To understand how these error handling techniques work, you can use Remix, an on
 ## Author
 
 Priyanshu Pandey  
-Email: whypriyanshu5603@gmail.com
+Email: 21021739@geu.ac.in
 
 ## License
 
